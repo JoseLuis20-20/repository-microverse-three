@@ -1,0 +1,16 @@
+header {
+
+    background: #fff;
+ 
+    position: fixed;
+      
+ }
+ 
+ @media (max-width: 680px) {
+   header {
+     flex-direction: column;
+   }
+   nav{
+     padding: 10px 0px;
+   }
+ }
